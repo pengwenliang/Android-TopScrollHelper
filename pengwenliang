@@ -1,0 +1,1 @@
+一个双击状态栏自动滚动到列表最顶部的动画效果, 支持 ScrollView、NestedScrollView、WebView、ListView和RecyclerView 等多种不同类型的视图。
